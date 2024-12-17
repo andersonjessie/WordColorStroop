@@ -36,3 +36,4 @@ The three option words' meaning and font color never match.
 `https://www.psychopy.org/download.html`
 - The "Begin Experiment" tab of code_3 in "Intro_Easy" Routine, + the "Begin Routine" tab of code_2 in "SendTrigger" Routine +  "marker" column of "rows.xlsx" spreadsheet are set up to send a block onset stimulus marker on recorded data by Aurora (NIRx, Germany) via LSL.
 - WCS was run on a T495s ThinkPad. For different monitors, PsychoPy screen settings may need to be altered to display correctly.
+- A given trial will be displayed for 3 seconds and then the next screen automatically displays, whether or not the user has selected an answer.
