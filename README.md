@@ -30,11 +30,6 @@ The prompt word meaning and font color never match.
 The three option words have different meanings from one another.
 The three option words' meaning and font color never match.
 
-### Documents
-Word-Color Stroop.psyexp
-rows.xlsx
-words.xlsx
-
 ### Specifications, may need modification for user needs
 
 - This was primarily run with PsychoPy version 2022.1.1. PsychoPy downloads and information can be found here.:
